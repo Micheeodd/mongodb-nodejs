@@ -1,3 +1,7 @@
+Michée ODUDU
+M1 AL
+ESGI
+
 # **API Potions Magiques**  
 
 Une API RESTful pour gérer des potions magiques, avec authentification utilisateur et documentation Swagger intégrée.  
