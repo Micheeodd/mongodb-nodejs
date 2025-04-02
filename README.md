@@ -36,20 +36,11 @@ Une API RESTful pour gérer des potions magiques, avec authentification utilisat
 Clonez le dépôt et installez les dépendances :  
 
 ```bash
-git clone [URL_DU_DEPOT]  
+git clone https://github.com/Micheeodd/mongodb-nodejs.git
 cd mongodb-nodejs  
 npm install  
 ```
 
-### **3. Configuration de l'environnement**  
-Créez un fichier `.env` à la racine :  
-
-```env
-MONGO_URI=mongodb://localhost:27017/potionsdb  
-JWT_SECRET=ma_super_clé_secrète  
-COOKIE_NAME=auth_token  
-PORT=3000  
-```
 
 ### **4. Lancer le serveur**  
 
