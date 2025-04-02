@@ -42,7 +42,7 @@ npm install
 ```
 
 
-### **4. Lancer le serveur**  
+### **3. Lancer le serveur**  
 
 ```bash
 npm start  
